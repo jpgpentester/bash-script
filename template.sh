@@ -23,7 +23,7 @@
 # <scriptdesc>                                                                 #
 #                                                                              #
 # AUTHOR              EMAIL                                                    #
-# jpgpentester        <jpgpentester.github>@<gmail>.<com>                      #
+# Jose Paulo Garcia   <jpgpentester.github>@<gmail>.<com>                      #
 #                                                                              #
 ################################################################################
 
