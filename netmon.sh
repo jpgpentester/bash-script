@@ -27,7 +27,7 @@
 # Simple script that display and record active network connections             #
 #                                                                              #
 # AUTHOR              EMAIL                                                    #
-# jpgpentester        jpgpentester.github @ geemail.com                        #
+# Jose Paulo Garcia   jpgpentester.github @ geemail.com                        #
 #                                                                              #
 ################################################################################
 
